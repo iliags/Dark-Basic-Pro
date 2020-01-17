@@ -1,2 +1,0 @@
-
-void dbPhyUpdateCloth ( void );
